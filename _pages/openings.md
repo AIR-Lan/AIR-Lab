@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open Positions at AIRLab
+## Open Positions at AIRLab
 
 **Join our team and contribute to pioneering research in Artificial Intelligence and Robotics!** We are seeking talented and motivated individuals with a strong passion for innovation, resilience, and real-world problem-solving. As a part of the AIRLab, you’ll work closely with leading experts and gain experience in developing impactful autonomous systems.
 
@@ -27,11 +27,11 @@ We currently have two exciting PhD scholarship opportunities open:
 ## Application Process
 
 If you’re interested in applying, please send an [email to Dr. Jianglin Lan](mailto:jianglin.lan@glasgow.ac.uk) with the subject line:  
-_"Application PhD"_ (for PhD positions). Include a brief statement explaining your interest, along with your CV, which should detail your academic background, relevant experience, and key skills. **Note**: No cover letter or additional certificates are necessary.
+_"Application PhD"_ (for PhD positions). Include a brief statement explaining your interest, along with your CV, which should detail your academic background, relevant experience, and key skills.
 
 ## Opportunities for Postdocs and Fellows
 
-While we currently have specific PhD openings, we also welcome inquiries from potential postdoctoral researchers, especially those with independent fellowships. **We are open to supporting candidates for fellowships** through the [Leverhulme Trust](https://www.leverhulme.ac.uk) or [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/).
+While we currently have specific PhD openings, we also welcome inquiries from potential postdoctoral researchers, especially those with independent fellowships.
 
 ## Master and Undergraduate Opportunities
 
