@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Overview
+## Research Overview
 
 Our research explores core domains necessary for building resilient and efficient autonomous systems, integrating machine learning, control theory, and optimization. Our goal is to advance safe and reliable solutions that meet the growing needs of modern autonomous systems.
 
