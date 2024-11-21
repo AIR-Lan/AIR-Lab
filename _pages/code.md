@@ -1,5 +1,5 @@
 ---
-layout: textlay
+layout: default
 title: Code
 ---
 
