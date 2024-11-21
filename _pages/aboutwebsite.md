@@ -1,50 +1,50 @@
 ---
-title: "About the website"
+title: "About the Website"
 layout: textlay
 excerpt: "About the website."
 sitemap: false
 permalink: /aboutwebsite.html
 ---
 
-# Use this website as a template for your academic research group
+# About This Website
 
-This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
+This website was developed using a template provided by the [Allan Lab](https://github.com/allanlab/allanlab) and is powered by [Jekyll](https://jekyllrb.com), with design elements from [Bootstrap](http://www.getbootstrap.com) and [Bootswatch](http://www.bootswatch.com). The goal is to offer a straightforward and flexible template for academic research groups to present their work and manage updates easily.
 
-### Getting started
-All pages are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for easy editing, and [Jekyll](https://jekyllrb.com) uses Liquid for the data-driven pages. The publicaion list, news items, and group members are stored as `.yml` data sheets (plain text) in the `_data folder`, so that one can update the website easily. The pages are in the `_pages` folder. Updating and maintaining is easy using [Github](http://www.github.com) (not worldpress-easy, but there are other advantages (see e.g. [this](https://www.taniarascia.com/make-a-static-website-with-jekyll/), or [this](http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/)). [Jekyll](https://jekyllrb.com) takes all the markdown and data files, and creates beautiful `html` files in the `_site` folder.
+### Getting Started
 
-If you never used [Jekyll](https://jekyllrb.com), read the [wikipedia article](https://en.wikipedia.org/wiki/Jekyll_(software)) article and check out [their website](https://jekyllrb.com). Same for [Github](http://www.github.com), which will host your first website draft. 
+The website structure is designed for easy editing and updates:
+- **Markdown Pages**: Content pages use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for simple formatting.
+- **Data-Driven Sections**: Information such as publications, news, and team members is stored in `.yml` data sheets in the `_data` folder, making it easy to update without editing individual HTML files.
+- **Jekyll Processing**: Jekyll takes all markdown and data files and generates HTML files in the `_site` folder for publishing.
 
-Create and open a github account, go to [our repository](https://github.com/allanlab/allanlab), and click 'fork'. This is now your copy of the website, and you can change and adapt it as you want. You don't have to link to us or mention us (but of course we appreciate it). Then change the name of the repository to "your_username" and the name of the branch to "gh-pages".  Your website is now automatically published under *your_username.github.io/your_username/*. Except that it probably still looks like our website. 
+If you’re new to Jekyll, we recommend reviewing the [Wikipedia article](https://en.wikipedia.org/wiki/Jekyll_(software)) or Jekyll’s official [website](https://jekyllrb.com) for an introduction.
 
-To modify the webpage, you can either do everything on on github.com (go to a file, click "edit", then "commit", "push"), or install  [Jekyll](https://jekyllrb.com) on your computer and play with your local copy that you sync with the branch on github.com.  The former is much easier in the beginning, but a bit less convenient once you start rewriting everythint. To get it to work on your computer (and to learn a bit more about [Jekyll](https://jekyllrb.com)), [here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) and [here](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme) are tutorials on how to use it and how set it up locally. Also, consider using the [Github desktop app](http://www.desktop.github.com), I found it helpful.  
+### Forking and Publishing on GitHub
 
-### Customization
-Now let's make this *your* website. 
+To use this template, create a GitHub account and follow these steps:
 
-First, go to the `news.ylm`, `publist.ylm`, and `team.ylm` files in the `_data` folder and insert your own data into the data fields. Watch out:  [Jekyll](https://jekyllrb.com) is quite strict about extra or missing spaces etc. Adhere to the format. In the beginning, test each change: commit, push, and check the published website.
+1. **Fork the Repository**: Visit [the Allan Lab GitHub repository](https://github.com/allanlab/allanlab), then click "Fork" to create a copy.
+2. **Rename the Repository**: Change the repository name to `"your_username.github.io"`.
+3. **Publish**: After renaming, GitHub automatically publishes your website at *https://your_username.github.io/*.
+4. **Edit Directly on GitHub**: You can edit files directly on GitHub or install Jekyll locally to make and preview changes on your computer.
 
-For publications, you can add a "1" in the highlight field, then it will be featured prominently. You can add important  news items (red, "news1"), and less important  news items (blue, "news2").
+For local editing, refer to these [setup instructions](https://www.taniarascia.com/make-a-static-website-with-jekyll/) and [tutorials](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme).
 
-For the news items, just keep adding them. The first 10 will be displayed on the 'home' page.
+### Customizing Your Website
 
-For the `team.ylm` file
+Make the website your own by following these customization steps:
 
-Next, change the content of all files in the `_pages` folder.  To change the title in the homepage, go to `homelay.html` in the `_layout` folder.
+1. **Update Data Files**:
+   - Go to the `_data` folder and edit `news.yml`, `publist.yml`, and `team.yml` to add your own information.
+   - **Formatting Tip**: Jekyll requires strict YAML formatting, so avoid extra spaces or tabs.
+2. **Modify Pages**:
+   - Edit content files in the `_pages` folder. The homepage can be customized in `homelay.html` within `_layouts`.
+3. **Styling**:
+   - Minor style changes can be made in `main.sass` (within `CSS`), or you can adjust the Bootstrap theme in `_variables.sass`.
+   - You may also replace the theme with your own CSS in the `_sass` directory.
 
-Lastly, change the footer and perhaps header appropriately (in `_include`).
+### Acknowledgments and Copyright
 
-You might also want to change the style or theme. I imported style files (in sass) from Bootstrap/Bootwatch, you can replace them with your own (in the `_sass directory`). For small changes, just work on the override stuff in the `main.sass` file in the `CSS` folder. Or change some variables in the `_variables.sass` file, like the background color etc. 
+Feel free to use and adapt this template as needed. **Credit to the Allan Lab** for creating the original version of this website template. If you’d like, share your modified website with us, and we may include it in a showcase.
 
-As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, and creates beautiful `html` files in the `_site` folder.In the end, either upload these files  to your server, or buy yourself a domain and check the instructions on github on how to host it there.
-
-### Copyright / credit
-
-You can use this template as you please. You don't have to link to us or mention us (but of course we appreciate it). We also welcome it if you send us an email with a link to your website, perhaps we'll publish a list here at some point. 
-
-Comments welcome.
-
-Code released under the MIT License. 
-
-
-
+Comments and suggestions are always welcome!

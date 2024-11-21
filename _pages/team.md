@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "AIR-Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "AIR-Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -26,7 +26,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
+  <p>{{ member.bio }}</p>
+  <p>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -34,8 +36,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education1 | markdownify }} </li>
+  <li> {{ member.education2 | markdownify }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
@@ -74,7 +76,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 
 
 
@@ -190,7 +191,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.

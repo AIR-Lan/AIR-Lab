@@ -1,41 +1,38 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "AIRLab - Open Positions"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open Positions at AIRLab
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**Join our team and contribute to pioneering research in Artificial Intelligence and Robotics!** We are seeking talented and motivated individuals with a strong passion for innovation, resilience, and real-world problem-solving. As a part of the AIRLab, you’ll work closely with leading experts and gain experience in developing impactful autonomous systems.
 
-We are  looking for new group members with passion, talent, and grit!
+## PhD Opportunities
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+We currently have two exciting PhD scholarship opportunities open:
 
-### Past open positions
+- **RAINZ CDT PhD Scholarship Project: "AI-empowered Zero Touch Wireless Network Management for Reliable and Efficient Autonomous Robot Fleets"**  
+  *Eligibility*: UK students only  
+  *Deadline*: November 28, 2024  
+  For more details, visit the project page: [FindAPhD](https://www.findaphd.com/search/ProjectDetails.aspx?)
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+- **School / EPSRC PhD Scholarship**  
+  This scholarship provides a unique opportunity to conduct research within the James Watt School of Engineering at the University of Glasgow.  
+  *Deadline*: January 31, 2025  
+  To learn more, see the school’s official page: [PhD Opportunities](https://www.gla.ac.uk/schools/engineering/phdopportunities)
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+## Application Process
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+If you’re interested in applying, please send an [email to Dr. Jianglin Lan](mailto:jianglin.lan@glasgow.ac.uk) with the subject line:  
+_"Application PhD"_ (for PhD positions). Include a brief statement explaining your interest, along with your CV, which should detail your academic background, relevant experience, and key skills. **Note**: No cover letter or additional certificates are necessary.
 
+## Opportunities for Postdocs and Fellows
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+While we currently have specific PhD openings, we also welcome inquiries from potential postdoctoral researchers, especially those with independent fellowships. **We are open to supporting candidates for fellowships** through the [Leverhulme Trust](https://www.leverhulme.ac.uk) or [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/).
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+## Master and Undergraduate Opportunities
 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+We offer occasional opportunities for Master’s projects and internships for exceptional candidates, particularly those with strong academic performance and a demonstrated interest in AI and Robotics. University of Glasgow students interested in these opportunities can contact us for more details.
