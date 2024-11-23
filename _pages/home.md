@@ -8,7 +8,7 @@ permalink: /
 
 **Shaping the Future of Intelligent Machines: University of Glasgow AI and Robotics Lab**
 
-Welcome to the Artificial Intelligence and Robotics Lab (AIRLab) at the University of Glasgow, led by Dr. Jianglin Lan, a Leverhulme Early Career Fellow and Lecturer in Autonomous Systems in the Division of Autonomous Systems and Connectivity, within the James Watt School of Engineering. Our lab is a vibrant center for cutting-edge research in artificial intelligence and robotics, dedicated to driving innovation with a focus on safety, resilience, and real-world impact.
+Welcome to the Artificial Intelligence and Robotics Lab (AIRLab) at University of Glasgow, led by Dr. Jianglin Lan. Our lab is a vibrant center for cutting-edge research in artificial intelligence and robotics, dedicated to driving innovation with a focus on safety, resilience, and real-world impact.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
