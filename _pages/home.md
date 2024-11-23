@@ -70,7 +70,7 @@ Our work spans several key areas of AI and robotics, including:
 - **Fault-Tolerant Autonomous Systems**: Developing autonomous systems that adapt dynamically, even in unexpected situations, to ensure uninterrupted functionality.
 - **Intelligent Transportation Systems**: Harnessing AI to improve transportation networks for safer, more efficient mobility solutions.
 
-Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including the [Leverhulme Trust](https://www.leverhulme.ac.uk) and [Royal Society](https://www.royalsociety.org).
+Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including [Leverhulme Trust](https://www.leverhulme.ac.uk) and [Royal Society](https://www.royalsociety.org).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uni_Glasgow_1.jpg" style="width: 180px">
