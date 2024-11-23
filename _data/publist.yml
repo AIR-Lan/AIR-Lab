@@ -1,0 +1,161 @@
+- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+  image: slam2.jpg
+  description: A novel approach for mapping and localization in dynamic indoor environments, enhancing SLAM performance through adaptive multimode techniques.
+  authors: Zhihao Lin, Qi Zhang b, Zhen Tian a, Peizhuo Yu a, Ziyang Ye c, Hanyang Zhuang d, Jianglin Lan
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0031320324008057
+    display: Pattern Recognition Journal
+  highlight: 1
+
+- title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars."
+  image: vslam.png
+  description: Presents an advanced Visual SLAM system optimized for safe navigation in lightweight autonomous vehicles, ensuring collision avoidance in complex environments.
+  authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
+  link:
+    url: https://www.mdpi.com/1424-8220/24/19/6258
+    display: MDPI Sensors Journal
+  highlight: 1
+
+- title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
+  image: adaptivecruise.png
+  description: Introduces a data-driven approach to enhance adaptive cruise control in complex, nonlinear vehicle platoons for improved safety and efficiency.
+  authors: J lan
+  link:
+    url: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12556
+    display: IET Research Journal
+  highlight: 1
+
+- title: "DPL-SLAM: Enhancing Dynamic Point-Line SLAM through Dense Semantic Methods"
+  image: pointlineslam.png
+  description: This paper enhances Point-Line SLAM by integrating dense semantic data for improved accuracy in dynamic environments.
+  authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Jianglin Lan
+  link:
+    url: https://ieeexplore.ieee.org/iel7/7361/4427201/10477312.pdf?casa_token=YyXErCOFKgAAAAAA:TBhl5xcsSCFdRt7xAV4PUUNmHFiSf4FrpdsOY6XO9-5JiwY0hDK_SAVQdLOLvN9469MUSDtSNBdj
+    display: IEEE Xplore
+  highlight: 1
+
+- title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
+  image: safeplanner.png
+  description: Presents a comprehensive planning approach for automated driving that accounts for safe interactions with human drivers.
+  authors: Harikirshnan Vijayakumar, Dezong Zhao, Jianglin Lan, Wenjing Zhao, Daxin Tian, Dachuan Li
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10255298?casa_token=KcmO-XpVMzcAAAAA:eF1lm0_m7BygQJI7u9k3cijEBH4WcjmEXEq5BcTfPt5shID47jLBTk0y2BRT5ua1zSmIpYuuSD2K
+    display: IEEE Transactions on Intelligent Vehicles
+  highlight: 1
+
+- title: "A Real-time Framework of Multi-Camera Vehicle Tracking System"
+  image: vtracker.png
+  description: Proposes a real-time framework for vehicle tracking using multiple cameras, improving accuracy and robustness in dynamic environments.
+  authors: Hanyang Zhuang; Xingyuan Chen; Jianglin Lan; Ying Wang; Zhaoxuan Lu; Chunxiang Wang
+  link:
+    url: https://ieeexplore.ieee.org/iel8/10670697/10670719/10671316.pdf?casa_token=dgINFO5V1XIAAAAA:40G7swulHJNjpYxjIrj-DJgz9DxdgfXcYBbJ4ZuaWGjfN2sLOb_ntedeWF54MRAfpw5-gNH-nYWq
+    display:  2024 IEEE International Conference on Real-time Computing and Robotics
+  highlight: 1
+
+- title: "Real-time safe control of neural network dynamic models with sound approximation"
+  image: sound.png
+  description: This paper presents a method for ensuring safe real-time control of dynamic models using neural networks with robust approximation techniques.
+  authors: Hanjiang Hu, Jianglin Lan, Changliu Liu
+  link:
+    url: https://proceedings.mlr.press/v242/hu24a/hu24a.pdf
+    display: Proceedings of Machine Learning Research vol 242:92–103
+  highlight: 1
+
+- title: "Energy Maximisation Control for an Array of Wave Energy Converters - A Distributed Approach"
+  image: energymax.png
+  description: Introduces a distributed control strategy aimed at maximizing energy extraction from an array of wave energy converters.
+  authors: S. Zhan, Y. Chen, J. Lan, and Y. Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10531892
+    display: 2024 UKACC 14th International Conference on Control
+  highlight: 1
+
+- title: "Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation"
+  image: proplace.png
+  description: Proposes a method for generating robust and plausible counterfactual explanations for neural networks using robust optimization techniques.
+  authors: J. Jiang, J. Lan, F. Leofante, A. Rago, and F. Toni
+  link:
+    url: https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf
+    display: Proceedings of the 15th Asian Conference on Machine Learning
+  highlight: 1
+
+- title: "Data-driven Dual-loop Control for Platooning Mixed Human-driven and Automated Vehicles"
+  image: dualloopconrol.png
+  description: This paper presents a data-driven dual-loop control strategy for platooning, addressing the integration of human-driven and automated vehicles in the same platoon.
+  authors: Jianglin Lan
+  link:
+    url: https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf
+    display: IET Intelligent Transport Systems, 1–10
+  highlight: 1
+
+- title: "Data-Driven Robust Predictive Control for Mixed Vehicle Platoons using Noisy Measurement"
+  image: robustpc.png
+  description: This paper develops a robust predictive control strategy for mixed vehicle platoons, focusing on handling noisy measurements for improved performance.
+  authors: Jianglin Lan, Dezong Zhao, Daxin Tian
+  link:
+    url: https://ieeexplore.ieee.org/document/9626600
+    display: IEEE Transactions on Intelligent Transportation Systems, 24(6) 6586 – 6596
+  highlight: 1
+
+- title: "Finding the LQR Weights to Ensure the Associated Riccati Equations Admit a Common Solution"
+  image: lqrwieghts.png
+  description: This paper explores the determination of optimal Linear Quadratic Regulator (LQR) weights to ensure a common solution to the associated Riccati equations.
+  authors: J. Lan and D. Zhao
+  link:
+    url: https://ieeexplore.ieee.org/document/10005807/1000
+    display: IEEE Transactions on Automatic Control, 68(10) 6393–6400
+  highlight: 1
+
+- title: "Safety Monitoring and Alert for Neural Network-Enabled Control Systems"
+  image: safetymon.png
+  description: Presents a framework for real-time safety monitoring and alerting in control systems powered by neural networks.
+  authors: Jianglin Lan
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2405896323005888
+    display: IFAC Word Congress, IFAC-PapersOnLine, 56(2), 9436-9441
+  highlight: 1
+
+- title: "Iteratively Enhanced Semidefinite Relaxations for Efficient Neural Network Verification"
+  image: efficientnnv.png
+  description: This paper introduces an iterative approach using semidefinite relaxations to improve the efficiency and accuracy of neural network verification.
+  authors: Jianglin Lan, Yang Zheng, Alessio Lomuscio
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/26744
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, 37(12) 14937-14945
+  highlight: 1
+
+- title: "A Semidefinite Relaxation based Branch-and-Bound Method for Tight Neural Network Verification"
+  image: tightverification.png
+  description: Proposes a branch-and-bound method using semidefinite relaxation to achieve tighter and more reliable neural network verification.
+  authors: Jiaglin Lan, Benedikt Bruckner, Alessio Lomuscio
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/26745
+    display: Proceedings of the AAAI Conference on Artificial Intelligence Vol. 37 No. 12
+  highlight: 1
+
+- title: "Safe and Robust Data-Driven Cooperative Control Policy for Mixed Vehicle Platoons"
+  image: coorperativecontrol.png
+  description: This paper develops a cooperative control policy for mixed vehicle platoons, emphasizing safety and robustness in data-driven approaches.
+  authors: Jianglin Lan, Dezong Zhao, Daxin Tian
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.6412
+    display: International Journal of Robust and Nonlinear Control, 33(7) 4171–4190
+  highlight: 1
+
+- title: "An Iterative Strategy for Robust Integration of Fault Estimation and Fault-Tolerant Control"
+  image: fault.jpg
+  description: Presents an iterative approach to enhance fault estimation and integrate fault-tolerant control, improving system resilience.
+  authors: Jianglin Lan, Ron Patton
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0005109822004174
+    display: Automatica Volume 145, November 2022, 110556
+  highlight: 1
+
+- title: "Tight Neural Network Verification via Semidefinite Relaxations and Linear Reformulations"
+  image: relaxationverification.png
+  description: Presents an iterative approach to enhance fault estimation and integrate fault-tolerant control, improving system resilience.
+  authors: Jianglin Lan, Yang Zheng, Alessio Lomuscio
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/20689
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 36 No. 7
+  highlight: 1
