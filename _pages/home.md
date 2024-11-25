@@ -58,7 +58,7 @@ At AIRLab, our mission is to push the frontiers of AI and robotics, developing s
 
 #### Lab Director
 **Dr. Jianglin Lan**  
-Leverhulme Early Career Fellow & Lecturer in Autonomous Systems  
+Leverhulme Early Career Fellow, Lecturer in Autonomous Systems  
 Division of Autonomous Systems and Connectivity, James Watt School of Engineering  
 Email: Jianglin.Lan[at]glasgow.ac.uk  
 [Google Scholar Profile](#) | [ResearchGate Profile](#)
