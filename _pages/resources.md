@@ -3,7 +3,7 @@ title: "AIRLab - Resources"
 layout: textlay
 excerpt: "Resources"
 sitemap: false
-permalink: /Resources/
+permalink: /resources/
 ---
 
 # Code
