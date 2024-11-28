@@ -34,13 +34,13 @@
     display: IEEE Sensors Journal, 2024
   highlight: 1
 
-- title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
+title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
   image: safeplanner.png
   description: Presents a comprehensive planning approach for automated driving that accounts for safe interactions with human drivers.
   authors: Harikirshnan Vijayakumar, Dezong Zhao, Jianglin Lan, Wenjing Zhao, Daxin Tian, Dachuan Li
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10255298?casa_token=KcmO-XpVMzcAAAAA:eF1lm0_m7BygQJI7u9k3cijEBH4WcjmEXEq5BcTfPt5shID47jLBTk0y2BRT5ua1zSmIpYuuSD2K
-    display: IEEE Transactions on Intelligent Vehicles, 2023
+    display: IEEE Transactions on Intelligent Vehicles
   highlight: 1
 
 - title: "A Real-time Framework of Multi-Camera Vehicle Tracking System"
@@ -58,7 +58,7 @@
   authors: Hanjiang Hu, Jianglin Lan, Changliu Liu
   link:
     url: https://proceedings.mlr.press/v242/hu24a/hu24a.pdf
-    display: Proceedings of Machine Learning Research, 2024
+    display: Proceedings of Machine Learning Research vol 242:92–103
   highlight: 1
 
 - title: "Energy Maximisation Control for an Array of Wave Energy Converters - A Distributed Approach"
@@ -76,7 +76,7 @@
   authors: J. Jiang, J. Lan, F. Leofante, A. Rago, and F. Toni
   link:
     url: https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf
-    display: Proceedings of the 15th Asian Conference on Machine Learning, 2024
+    display: Proceedings of the 15th Asian Conference on Machine Learning
   highlight: 1
 
 - title: "Data-driven Dual-loop Control for Platooning Mixed Human-driven and Automated Vehicles"
@@ -85,7 +85,7 @@
   authors: Jianglin Lan
   link:
     url: https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf
-    display: IET Intelligent Transport Systems, 1–10, 2023
+    display: IET Intelligent Transport Systems, 1–10
   highlight: 1
 
 - title: "Data-Driven Robust Predictive Control for Mixed Vehicle Platoons using Noisy Measurement"
@@ -94,16 +94,16 @@
   authors: Jianglin Lan, Dezong Zhao, Daxin Tian
   link:
     url: https://ieeexplore.ieee.org/document/9626600
-    display: IEEE Transactions on Intelligent Transportation Systems, 2021
+    display: IEEE Transactions on Intelligent Transportation Systems, 24(6) 6586 – 6596
   highlight: 1
 
 - title: "Finding the LQR Weights to Ensure the Associated Riccati Equations Admit a Common Solution"
   image: lqrwieghts.png
   description: This paper explores the determination of optimal Linear Quadratic Regulator (LQR) weights to ensure a common solution to the associated Riccati equations.
-  authors: J. Lan, D. Zhao
+  authors: J. Lan and D. Zhao
   link:
     url: https://ieeexplore.ieee.org/document/10005807/1000
-    display: IEEE Transactions on Automatic Control, 2023
+    display: IEEE Transactions on Automatic Control, 68(10) 6393–6400
   highlight: 1
 
 - title: "Safety Monitoring and Alert for Neural Network-Enabled Control Systems"
@@ -112,7 +112,7 @@
   authors: Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405896323005888
-    display: IFAC Word Congress, IFAC-PapersOnLine, 2023
+    display: IFAC Word Congress, IFAC-PapersOnLine, 56(2), 9436-9441
   highlight: 1
 
 - title: "Iteratively Enhanced Semidefinite Relaxations for Efficient Neural Network Verification"
@@ -121,7 +121,7 @@
   authors: Jianglin Lan, Yang Zheng, Alessio Lomuscio
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/26744
-    display: Proceedings of the AAAI Conference on Artificial Intelligence, 37(12): 14937-14945, 2023
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, 37(12) 14937-14945
   highlight: 1
 
 - title: "A Semidefinite Relaxation based Branch-and-Bound Method for Tight Neural Network Verification"
@@ -130,7 +130,7 @@
   authors: Jiaglin Lan, Benedikt Bruckner, Alessio Lomuscio
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/26745
-    display: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 37 No. 12, 2023
+    display: Proceedings of the AAAI Conference on Artificial Intelligence Vol. 37 No. 12
   highlight: 1
 
 - title: "Safe and Robust Data-Driven Cooperative Control Policy for Mixed Vehicle Platoons"
@@ -139,7 +139,7 @@
   authors: Jianglin Lan, Dezong Zhao, Daxin Tian
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.6412
-    display: International Journal of Robust and Nonlinear Control, 33(7): 4171–4190, 2023
+    display: International Journal of Robust and Nonlinear Control, 33(7) 4171–4190
   highlight: 1
 
 - title: "An Iterative Strategy for Robust Integration of Fault Estimation and Fault-Tolerant Control"
@@ -148,7 +148,7 @@
   authors: Jianglin Lan, Ron Patton
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0005109822004174
-    display: Automatica, 145, 110556, 2022
+    display: Automatica Volume 145, November 2022, 110556
   highlight: 1
 
 - title: "Tight Neural Network Verification via Semidefinite Relaxations and Linear Reformulations"
@@ -157,5 +157,5 @@
   authors: Jianglin Lan, Yang Zheng, Alessio Lomuscio
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/20689
-    display: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 36 No. 7, 2022
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 36 No. 7
   highlight: 1
