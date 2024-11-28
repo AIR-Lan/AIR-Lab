@@ -6,28 +6,34 @@ sitemap: false
 permalink: /vacancies
 ---
 
-## Open Positions at AIRLab
-
-**Join our team and contribute to pioneering research in Artificial Intelligence and Robotics!** We are seeking talented and motivated individuals with a strong passion for innovation, resilience, and real-world problem-solving. As a part of the AIRLab, you’ll work closely with leading experts and gain experience in developing impactful autonomous systems.
+**Join our team and contribute to pioneering research in Artificial Intelligence and Robotics!** We are seeking talented and motivated individuals with a strong passion for innovation, resilience, and real-world problem-solving. 
 
 ## PhD Opportunities
 
-We currently have two exciting PhD scholarship opportunities open:
+We currently have several exciting PhD scholarship opportunities open:
 
 - **RAINZ CDT PhD Scholarship Project: "AI-empowered Zero Touch Wireless Network Management for Reliable and Efficient Autonomous Robot Fleets"**  
   *Eligibility*: UK students only  
   *Deadline*: November 28, 2024  
   For more details, visit the project page: [FindAPhD](https://www.findaphd.com/search/ProjectDetails.aspx?)
 
-- **School / EPSRC PhD Scholarship**  
-  This scholarship provides a unique opportunity to conduct research within the James Watt School of Engineering at the University of Glasgow.  
+- **School / EPSRC PhD Scholarship**   
   *Deadline*: January 31, 2025  
   To learn more, see the school’s official page: [PhD Opportunities](https://www.gla.ac.uk/schools/engineering/phdopportunities)
+
+- **James McCune Smith PhD Scholarships**   
+  *Deadline*: January 31, 2025  
+  To learn more, see the official page: [James McCune Smith Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith/)
+  
+- **China Scholarship Council (CSC) PhD scholarship**  
+  *Deadline*: January 31, 2025  
+  To learn more, see the official page: [China Scholarship Council 2024](https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/chinascholarshipcouncil/)
+
 
 ## Application Process
 
 If you’re interested in applying, please send an [email to Dr. Jianglin Lan](mailto:jianglin.lan@glasgow.ac.uk) with the subject line:  
-_"Application PhD"_ (for PhD positions). Include a brief statement explaining your interest, along with your CV, which should detail your academic background, relevant experience, and key skills.
+_"Application PhD"_ (for PhD positions). Include a brief statement explaining your interest, along with your CV and scripts.
 
 ## Opportunities for Postdocs and Fellows
 
