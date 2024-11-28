@@ -6,8 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-# Publications
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 ## Highlights
