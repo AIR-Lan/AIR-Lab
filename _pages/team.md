@@ -11,7 +11,7 @@ permalink: /team/
 
 Jump to [Staff](#staff), [Visitors](#visitors), [Alumni](#alumni).
 
-## Staff
+## Current members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
