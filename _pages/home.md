@@ -1,14 +1,14 @@
 ---
 title: "AIRLab - Home"
 layout: homelay
-excerpt: "Artificial Intelligence and Robotics Lab (AIRLab) at the University of Glasgow"
+excerpt: "Artificial Intelligence and Robotics Lab at the University of Glasgow"
 sitemap: false
 permalink: /
 ---
 
-**Shaping the Future of Intelligent Machines: University of Glasgow AI and Robotics Lab**
+**Shaping the Future of Intelligent Machines: University of Glasgow Artificial Intelligence and Robotics (AIR) Lab**
 
-Welcome to the Artificial Intelligence and Robotics Lab (AIRLab) at University of Glasgow, led by Dr. Jianglin Lan. Our lab is a vibrant center for cutting-edge research in artificial intelligence and robotics, dedicated to driving innovation with a focus on safety, resilience, and real-world impact.
+Our mission is to advance AI and robotics by creating intelligent, secure, and ethical systems. We prioritize safety, reliability, and real-world resilience to maximize positive societal impact.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -53,9 +53,6 @@ Welcome to the Artificial Intelligence and Robotics Lab (AIRLab) at University o
   </a>
 </div>
 
-### About Us
-At AIRLab, our mission is to push the frontiers of AI and robotics, developing systems that are both intelligent and secure. We believe that autonomous systems should be designed with a focus on safety, reliability, and ethical considerations to maximize their positive impact on society. To this end, we focus on building resilient AI solutions that address critical challenges in real-world applications.
-
 #### Lab Director
 **Dr. Jianglin Lan**  
 Leverhulme Early Career Fellow & Lecturer in Autonomous Systems  
@@ -73,7 +70,6 @@ Our work spans several key areas of AI and robotics, including:
 Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including the [Leverhulme Trust](https://www.leverhulme.ac.uk) and [Royal Society](https://www.royalsociety.org).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uni_Glasgow_1.jpg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulm-Trust.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalsociety.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulm-Trust.jpg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalsociety.png" style="width: 180px">
 </figure>
