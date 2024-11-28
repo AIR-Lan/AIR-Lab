@@ -10,12 +10,6 @@ permalink: /research/
 
 Our research explores core domains necessary for building resilient and efficient autonomous systems, integrating machine learning, control theory, and optimization. Our goal is to advance safe and reliable solutions that meet the growing needs of modern autonomous systems.
 
-## Research Interests
-- **Machine Learning for Autonomous Systems**: Developing reliable, safe, and trustworthy AI-driven methods for real-world applications.
-- **Fault Tolerance**: Creating robust fault detection, diagnosis, and mitigation techniques for autonomous systems.
-- **Intelligent Transportation Systems**: Enhancing safety, security, and efficiency in connected vehicle networks.
-- **Vision-Based Robotics**: Improving perception, planning, and control frameworks for autonomous robotic applications.
-
 ## Ongoing Research Areas
 
 ### Fault-Tolerant Autonomous Systems
@@ -60,4 +54,4 @@ Our work integrates advanced perception and control systems for autonomous robot
 
 ---
 
-For a comprehensive list of our work, please visit our [publications page](./publications), where you can explore detailed descriptions and access full-text articles of our research papers.
+For a comprehensive list of our work, please visit our publications page.
