@@ -1,9 +1,9 @@
-- name: Dr. Jiaglin Lan
+- name: <a href="https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/">Dr. Jiaglin Lan</a>
   photo: jianglin.JPG
   info: "Leverhulme Early Career Fellow, Lecturer"
   email: jianglin.lan@glasgow.ac.uk
   number_educ: 2
-  education1: Honorary Research Fellow, Imperial College London, 2023 - .
+  education1: Honorary Research Fellow, Imperial College London, since 2023.
   education2: PhD in Engineering, University of Hull, 2017.
 
 - name: Peizhuo Yu
@@ -45,8 +45,8 @@
 - name: Lin Wu
   photo: lin.jpg
   info: PhD Student
-  bio: Computer Vision, Multimodal Learning and Embodied AI.
-  email: fiftywu@outlook.com
+  bio: Computer Vision, Multimodal Learning, Embodied AI.
+  email: 3058596w@student.gla.ac.uk
   number_educ: 3
   education1: M.Eng. in Control Engineering, Southeast University.
   education2: B.Eng. in Automation, Wuhan University of Technology.
