@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**Shaping the Future of Intelligent Machines: University of Glasgow AI and Robotics Lab**
-
 Our mission is to advance AI and robotics by creating intelligent, secure, and ethical systems. We prioritize safety, reliability, and real-world resilience to maximize positive societal impact.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
@@ -58,7 +56,7 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
 Leverhulme Early Career Fellow & Lecturer in Autonomous Systems  
 Division of Autonomous Systems and Connectivity, James Watt School of Engineering  
 Email: Jianglin.Lan[at]glasgow.ac.uk  
-[Google Scholar Profile](#) | [ResearchGate Profile](#)
+[Personal Website](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/) | [Google Scholar Profile](https://scholar.google.com/citations?user=Z7kvat4AAAAJ&hl=en&oi=ao) 
 
 #### Research Focus
 Our work spans several key areas of AI and robotics, including:
