@@ -58,7 +58,7 @@
   authors: Hanjiang Hu, Jianglin Lan, Changliu Liu
   link:
     url: https://proceedings.mlr.press/v242/hu24a/hu24a.pdf
-    display: Proceedings of Machine Learning Research, 242:92–103, 2024
+    display: Proceedings of Machine Learning Research, 2024
   highlight: 1
 
 - title: "Energy Maximisation Control for an Array of Wave Energy Converters - A Distributed Approach"
@@ -94,7 +94,7 @@
   authors: Jianglin Lan, Dezong Zhao, Daxin Tian
   link:
     url: https://ieeexplore.ieee.org/document/9626600
-    display: IEEE Transactions on Intelligent Transportation Systems, 24(6): 6586 – 6596, 2021
+    display: IEEE Transactions on Intelligent Transportation Systems, 2021
   highlight: 1
 
 - title: "Finding the LQR Weights to Ensure the Associated Riccati Equations Admit a Common Solution"
@@ -103,7 +103,7 @@
   authors: J. Lan, D. Zhao
   link:
     url: https://ieeexplore.ieee.org/document/10005807/1000
-    display: IEEE Transactions on Automatic Control, 68(10): 6393–6400, 2023
+    display: IEEE Transactions on Automatic Control, 2023
   highlight: 1
 
 - title: "Safety Monitoring and Alert for Neural Network-Enabled Control Systems"
@@ -112,7 +112,7 @@
   authors: Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405896323005888
-    display: IFAC Word Congress, IFAC-PapersOnLine, 56(2): 9436-9441, 2023
+    display: IFAC Word Congress, IFAC-PapersOnLine, 2023
   highlight: 1
 
 - title: "Iteratively Enhanced Semidefinite Relaxations for Efficient Neural Network Verification"
@@ -130,7 +130,7 @@
   authors: Jiaglin Lan, Benedikt Bruckner, Alessio Lomuscio
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/26745
-    display: Proceedings of the AAAI Conference on Artificial Intelligence Vol. 37 No. 12, 2023
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 37 No. 12, 2023
   highlight: 1
 
 - title: "Safe and Robust Data-Driven Cooperative Control Policy for Mixed Vehicle Platoons"
