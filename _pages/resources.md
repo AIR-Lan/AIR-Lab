@@ -6,7 +6,7 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Code
+## Code
 
 [Visit our GitHub Repository](https://github.com/AIR-Lan) 🚀
 
