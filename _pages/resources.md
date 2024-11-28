@@ -8,8 +8,6 @@ permalink: /Resources
 
 # Code
 
-Welcome to our code repository! You can access our projects and contribute to our research by visiting our GitHub repository.
-
 [Visit our GitHub Repository](https://github.com/AIR-Lan) 🚀
 
 Feel free to explore the codebase, suggest improvements, and collaborate with us on exciting projects!
