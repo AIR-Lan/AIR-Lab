@@ -1,10 +1,10 @@
 - title: "SLAM2: Simultaneous Localization and Multimode Mapping for indoor dynamic environments"
   image: slam2.jpg
   description: A novel approach for mapping and localization in dynamic indoor environments, enhancing SLAM performance through adaptive multimode techniques.
-  authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Ziyang Ye, Hanyang Zhuang, Jianglin Lan
+  authors: Zhihao Lin, Qi Zhang b, Zhen Tian a, Peizhuo Yu a, Ziyang Ye c, Hanyang Zhuang d, Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320324008057
-    display: Pattern Recognition, 158, 111054, 2025  
+    display: Pattern Recognition
   highlight: 1
 
 - title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars"
@@ -13,7 +13,7 @@
   authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
   link:
     url: https://www.mdpi.com/1424-8220/24/19/6258
-    display: Sensors, 2024
+    display: Sensors
   highlight: 1
 
 - title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
@@ -22,7 +22,7 @@
   authors: J lan
   link:
     url: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12556
-    display: IET Intelligent Transport Systems, 2024
+    display: IET Research Journal
   highlight: 1
 
 - title: "DPL-SLAM: Enhancing Dynamic Point-Line SLAM through Dense Semantic Methods"
@@ -31,10 +31,10 @@
   authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Jianglin Lan
   link:
     url: https://ieeexplore.ieee.org/iel7/7361/4427201/10477312.pdf?casa_token=YyXErCOFKgAAAAAA:TBhl5xcsSCFdRt7xAV4PUUNmHFiSf4FrpdsOY6XO9-5JiwY0hDK_SAVQdLOLvN9469MUSDtSNBdj
-    display: IEEE Sensors Journal, 2024
+    display: IEEE Xplore
   highlight: 1
 
-title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
+- title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
   image: safeplanner.png
   description: Presents a comprehensive planning approach for automated driving that accounts for safe interactions with human drivers.
   authors: Harikirshnan Vijayakumar, Dezong Zhao, Jianglin Lan, Wenjing Zhao, Daxin Tian, Dachuan Li
