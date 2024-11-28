@@ -67,7 +67,3 @@ Our work spans several key areas of AI and robotics, including:
 
 Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including the [Leverhulme Trust](https://www.leverhulme.ac.uk) and [Royal Society](https://www.royalsociety.org).
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulm-Trust.jpg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalsociety.png" style="width: 180px">
-</figure>
