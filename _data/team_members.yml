@@ -1,17 +1,20 @@
-- name: Jiaglin Lan
+- name: Dr. Jiaglin Lan
   photo: jianglin.JPG
-  info: "Leverhulme Early Career Fellow, Proleptic Lecturer in Autonomous Systems, University of Glasgow."
-  email: Jianglin.Lan@glasgow.ac.uk
+  info: "Leverhulme Early Career Fellow, Lecturer"
+  email: jianglin.lan@glasgow.ac.uk
+  number_educ: 2
+  education1: Honorary Research Fellow, Imperial College London, 2023 - .
+  education2: PhD in Engineering, University of Hull, 2017.
 
 - name: Peizhuo Yu
   photo: peizhuo.png
   info: PhD Student
-  bio: Optimization-based Control, Safety-critical Control and Reinforcement Learning.
+  bio: Optimization-based Control, Safety-critical Control, Reinforcement Learning.
   email: 2831853y@student.gla.ac.uk
   number_educ: 3
-  education1: M.Res in Medical Robotics, Imperial College London, 2021.
-  education2: M.Sci in Robotics, University of Sheffield, 2020.
-  education3: B.Eng in Mechanical Engineering, Beijing University of Chemical Technology, 2017.
+  education1: M.Res. in Medical Robotics, Imperial College London, 2021.
+  education2: M.Sc. in Robotics, University of Sheffield, 2020.
+  education3: B.Eng. in Mechanical Engineering, Beijing University of Chemical Technology, 2017.
 
 - name: Yuxuan Han
   photo: yuhuan.png
@@ -19,25 +22,25 @@
   bio: Multi-UAV Tracking and Navigation, Vision-Based Obstacle Detection, Real-Time Target Tracking, Intelligent and Autonomous Systems
   email: 2583786H@student.gla.ac.uk
   number_educ: 2
-  education1: Master of Science in Advanced Computer Science at the Cardiff University.
-  education2: Bachelor of Science in Computer Science at the University of Plymouth.
+  education1: M.Sc. in Advanced Computer Science, Cardiff University.
+  education2: B.Sc. in Computer Science, University of Plymouth.
 
 - name: Mahmud Zango
   photo: mahmud.JPG
   info: PhD Student
-  bio: Robotics, Tiny Machine-Leaning, Reinforcement Learning and Predictive Control.
+  bio: Robotics, Tiny Machine-Leaning, Reinforcement Learning, Predictive Control.
   email: mahmud.zango@glasgow.ac.uk
   number_educ: 2
-  education1: M.Sc in Automation and Control Systems, University of Newcastle upon Tyne.
-  education2: B.Eng Electrical Engineering, Bayero University.
+  education1: M.Sc. in Automation and Control Systems, University of Newcastle.
+  education2: B.Eng. in Electrical Engineering, Bayero University.
 
 - name: Zhihao Lin
   photo: zhihao.png
   info: PhD Student
-  bio: Visual SLAM, Reinforcement Learning, Hybrid Formation Control of Vehicle Platoons.
+  bio: Visual SLAM, Reinforcement Learning, Connected and Automated Vehicles.
   email: 2800400L@student.gla.ac.uk
   number_educ: 1
-  education1: M.Sc Circuits and Systems, Jilin  University (2022)
+  education1: M.Sc. in Circuits and Systems, Jilin  University, 2022.
 
 - name: Lin Wu
   photo: lin.jpg
@@ -45,24 +48,24 @@
   bio: Computer Vision, Multimodal Learning and Embodied AI.
   email: fiftywu@outlook.com
   number_educ: 3
-  education1: M.Eng, Control Engineering, School of Automation, Southeast University.
-  education2: B.E, Automation, School of Automation, Wuhan University of Technology (WUT).
-  education3: B.A, Chinese Language & Literature (Second Degree).
+  education1: M.Eng. in Control Engineering, Southeast University.
+  education2: B.Eng. in Automation, Wuhan University of Technology.
+  education3: B.A. in Chinese Language & Literature (Second Degree).
 
 - name: Wei Wei
   photo: wei.png
   info: PhD Student
-  bio: Safe Reinforcement Learning and Robot Navigationt.
+  bio: Safe Reinforcement Learning, Robot Navigation.
   email: w.wei.1@research.gla.ac.uk
   number_educ: 2
-  education1: M.Sc Robotics and AI, from the University of Glasgow, UK (2023).
-  education2: B.Eng Automation, at the University of Jinan (2022).
+  education1: M.Sc. in Robotics and AI, University of Glasgow, 2023.
+  education2: B.Eng. in Automation, University of Jinan, 2022.
 
 - name: Azizjon Kobilov
   photo: aziz.jpg
   info: PhD Student
-  bio: AI Robotics and Control of Autonomous Systems, Large Language Models in Robotics, Robot Task Planning, Behavior Trees, Reinforcement Learning and Machine Learning.
+  bio: Autonomous Systems, Robot Task Planning, Machine Learning.
   email: 2944540k@student.gla.ac.uk
   number_educ: 2
-  education1: Master of Engineering in Mechanical System Engineering (Mechatronics), Kumoh National Institute of Technology, South Korea (2019).
-  education2: Exchange Student Program in Mechanical System Engineering (Mechatronics), Kumoh National Institute of Technology, South Korea(2016).
+  education1: M.Eng. in Mechatronics, Kumoh National Institute of Technology, 2019.
+  education2: Exchange Student in Mechatronics, Kumoh National Institute of Technology, 2016.
