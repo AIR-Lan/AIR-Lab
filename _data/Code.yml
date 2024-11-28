@@ -1,0 +1,24 @@
+# code.yml
+repositories:
+  - name: "Main Repository"
+    description: "Our primary codebase for research in robotics and artificial intelligence."
+    url: "https://github.com/your-repository-name"
+  - name: "TinyML Projects"
+    description: "Code for our Tiny Machine Learning (TinyML) experiments and implementations."
+    url: "https://github.com/your-tinyml-repository"
+  - name: "Quadrotor Control"
+    description: "Codebase for trajectory tracking and control algorithms for Crazyflie quadrotors."
+    url: "https://github.com/your-quadrotor-repository"
+
+contribute:
+  title: "How to Contribute"
+  steps:
+    - "Fork the repository."
+    - "Create a new branch for your feature or bug fix."
+    - "Commit your changes with clear and concise messages."
+    - "Submit a pull request."
+
+contact:
+  email: "your-email@domain.com"
+  message: Need help or have questions? Feel free to reach out to us!
+
