@@ -17,15 +17,15 @@ Developing innovative techniques to enhance fault tolerance in autonomous system
   - Model-based fault estimation and fault-tolerant control
   - Hybrid integration of learning and control for real-time fault management
 - **Key Publications**:
-  - *J. Lan and R. J. Patton, "Robust Integration of Model-based Fault Estimation and Fault-Tolerant Control,"* Springer, 2020.
-  - *J. Lan et al., "An iterative strategy for robust integration of fault estimation and fault-tolerant control,"* Automatica, 2022.
+  - *J. Lan, and R. Patton, "Robust Integration of Model-based Fault Estimation and Fault-Tolerant Control,"* Springer, 2020.
+  - *J. Lan, and R. Patton, "An iterative strategy for robust integration of fault estimation and fault-tolerant control,"* Automatica, 2022.
 
 ### Intelligent Transportation Systems
 Aiming to secure future transportation networks, our research addresses safety, robustness, and cooperative control in connected vehicle systems.
 
 - **Research Focus**:
   - Data-driven approaches to cooperative adaptive cruise control (CACC)
-  - Safety-enhanced control policies for mixed vehicle platoons
+  - Safe and efficient mixted traffic systems
 - **Key Publications**:
   - *J. Lan, "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons,"* IET Intelligent Transport Systems, 2024.
   - *J. Lan et al., "Safe and robust data‐driven cooperative control policy for mixed vehicle platoons,"* International Journal of Robust and Nonlinear Control, 2022.
@@ -35,7 +35,7 @@ We focus on developing methods to ensure the safety, robustness, and effectivene
 
 - **Research Focus**:
   - Robust and explainable AI for critical decision-making
-  - Runtime fault detection in neural network-controlled systems
+  - Runtime monitoring of learning-enabled systems
 - **Key Publications**:
   - *J. Jiang et al., "Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation,"* PMLR, 2024.
   - *J. Lan et al., "Runtime Monitoring and Fault Detection for Neural Network-Controlled Systems,"* IFAC-PapersOnLine, 2024.
@@ -44,7 +44,7 @@ We focus on developing methods to ensure the safety, robustness, and effectivene
 Our work integrates advanced perception and control systems for autonomous robots, addressing challenges in vision, path planning, and control under dynamic conditions.
 
 - **Research Focus**:
-  - SLAM (Simultaneous Localization and Mapping) for dynamic indoor environments
+  - SLAM (Simultaneous Localization and Mapping) for dynamic environments
   - Collision-free navigation with lightweight vision-based frameworks
 - **Key Publications**:
   - *Z. Lin et al., "SLAM²: Simultaneous Localization and Multimode Mapping for Indoor Dynamic Environments,"* Pattern Recognition, 2025.
