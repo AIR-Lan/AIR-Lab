@@ -9,7 +9,7 @@ permalink: /team/
  **We are always looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Staff](#staff), [Visitors](#visitors), [Alumni](#alumni).
+Jump to [Current members](#current member), [Visitors](#visitors), [Alumni](#alumni).
 
 ## Current members
 {% assign number_printed = 0 %}
