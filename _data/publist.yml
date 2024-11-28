@@ -13,7 +13,7 @@
   authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
   link:
     url: https://www.mdpi.com/1424-8220/24/19/6258
-    display: Sensors, 24(19), p.6258, 2024
+    display: Sensors, 2024
   highlight: 1
 
 - title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
@@ -22,7 +22,7 @@
   authors: J lan
   link:
     url: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12556
-    display: IET Intelligent Transport Systems, 18(11), pp.2114-2123
+    display: IET Intelligent Transport Systems, 2024
   highlight: 1
 
 - title: "DPL-SLAM: Enhancing Dynamic Point-Line SLAM through Dense Semantic Methods"
@@ -58,7 +58,7 @@
   authors: Hanjiang Hu, Jianglin Lan, Changliu Liu
   link:
     url: https://proceedings.mlr.press/v242/hu24a/hu24a.pdf
-    display: Proceedings of Machine Learning Research vol 242:92–103, 2024
+    display: Proceedings of Machine Learning Research, 242:92–103, 2024
   highlight: 1
 
 - title: "Energy Maximisation Control for an Array of Wave Energy Converters - A Distributed Approach"
@@ -94,7 +94,7 @@
   authors: Jianglin Lan, Dezong Zhao, Daxin Tian
   link:
     url: https://ieeexplore.ieee.org/document/9626600
-    display: IEEE Transactions on Intelligent Transportation Systems, 24(6) 6586 – 6596, 2021
+    display: IEEE Transactions on Intelligent Transportation Systems, 24(6): 6586 – 6596, 2021
   highlight: 1
 
 - title: "Finding the LQR Weights to Ensure the Associated Riccati Equations Admit a Common Solution"
@@ -112,7 +112,7 @@
   authors: Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405896323005888
-    display: IFAC Word Congress, IFAC-PapersOnLine, 56(2), 9436-9441, 2023
+    display: IFAC Word Congress, IFAC-PapersOnLine, 56(2): 9436-9441, 2023
   highlight: 1
 
 - title: "Iteratively Enhanced Semidefinite Relaxations for Efficient Neural Network Verification"
