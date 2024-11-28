@@ -4,7 +4,7 @@
   authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Ziyang Ye, Hanyang Zhuang, Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320324008057
-    display: Pattern Recognition 
+    display: Pattern Recognition, 158, 111054, 2025  
   highlight: 1
 
 - title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars"
@@ -13,7 +13,7 @@
   authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
   link:
     url: https://www.mdpi.com/1424-8220/24/19/6258
-    display: Sensors
+    display: Sensors, 24(19), p.6258, 2024
   highlight: 1
 
 - title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
