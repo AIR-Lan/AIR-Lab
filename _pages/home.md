@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Shaping the Future of Intelligent Machines: University of Glasgow Artificial Intelligence and Robotics (AIR) Lab**
+**Shaping the Future of Intelligent Machines: University of Glasgow AI and Robotics Lab**
 
 Our mission is to advance AI and robotics by creating intelligent, secure, and ethical systems. We prioritize safety, reliability, and real-world resilience to maximize positive societal impact.
 
