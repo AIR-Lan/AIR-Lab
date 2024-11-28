@@ -74,6 +74,6 @@ Our team is actively involved in collaborative research across these domains, su
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Uni_Glasgow_1.jpg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulm-Early-career-banner.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulm-Trust.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalsociety.png" style="width: 100px">
 </figure>
