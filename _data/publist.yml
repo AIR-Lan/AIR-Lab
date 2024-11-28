@@ -1,28 +1,28 @@
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+- title: "SLAM2: Simultaneous Localization and Multimode Mapping for indoor dynamic environments"
   image: slam2.jpg
   description: A novel approach for mapping and localization in dynamic indoor environments, enhancing SLAM performance through adaptive multimode techniques.
-  authors: Zhihao Lin, Qi Zhang b, Zhen Tian a, Peizhuo Yu a, Ziyang Ye c, Hanyang Zhuang d, Jianglin Lan
+  authors: Z. Lin, Q. Zhang, Z. Tian, P. Yu, Z. Ye, H. Zhuang, J. Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320324008057
-    display: Pattern Recognition Journal
+    display: Pattern Recognition 
   highlight: 1
 
 - title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars."
   image: vslam.png
   description: Presents an advanced Visual SLAM system optimized for safe navigation in lightweight autonomous vehicles, ensuring collision avoidance in complex environments.
-  authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
+  authors: Z. Lin, Z. Tian, Q. Zhang, H. Zhuang, J. Lan
   link:
     url: https://www.mdpi.com/1424-8220/24/19/6258
-    display: MDPI Sensors Journal
+    display: Sensors 
   highlight: 1
 
 - title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
   image: adaptivecruise.png
   description: Introduces a data-driven approach to enhance adaptive cruise control in complex, nonlinear vehicle platoons for improved safety and efficiency.
-  authors: J lan
+  authors: J. lan
   link:
     url: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12556
-    display: IET Research Journal
+    display: IET Intelligent Transport Systems
   highlight: 1
 
 - title: "DPL-SLAM: Enhancing Dynamic Point-Line SLAM through Dense Semantic Methods"
@@ -31,7 +31,7 @@
   authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Jianglin Lan
   link:
     url: https://ieeexplore.ieee.org/iel7/7361/4427201/10477312.pdf?casa_token=YyXErCOFKgAAAAAA:TBhl5xcsSCFdRt7xAV4PUUNmHFiSf4FrpdsOY6XO9-5JiwY0hDK_SAVQdLOLvN9469MUSDtSNBdj
-    display: IEEE Xplore
+    display: IEEE Sensors Journal
   highlight: 1
 
 - title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
@@ -82,7 +82,7 @@
 - title: "Data-driven Dual-loop Control for Platooning Mixed Human-driven and Automated Vehicles"
   image: dualloopconrol.png
   description: This paper presents a data-driven dual-loop control strategy for platooning, addressing the integration of human-driven and automated vehicles in the same platoon.
-  authors: Jianglin Lan
+  authors: J. Lan
   link:
     url: https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf
     display: IET Intelligent Transport Systems, 1–10
