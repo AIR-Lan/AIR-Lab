@@ -1,19 +1,19 @@
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+- title: "SLAM2: Simultaneous Localization and Multimode Mapping for indoor dynamic environments"
   image: slam2.jpg
   description: A novel approach for mapping and localization in dynamic indoor environments, enhancing SLAM performance through adaptive multimode techniques.
-  authors: Zhihao Lin, Qi Zhang b, Zhen Tian a, Peizhuo Yu a, Ziyang Ye c, Hanyang Zhuang d, Jianglin Lan
+  authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Ziyang Ye, Hanyang Zhuang, Jianglin Lan
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320324008057
-    display: Pattern Recognition Journal
+    display: Pattern Recognition 
   highlight: 1
 
-- title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars."
+- title: "Enhanced Visual SLAM for Collision-Free Driving with Lightweight Autonomous Cars"
   image: vslam.png
   description: Presents an advanced Visual SLAM system optimized for safe navigation in lightweight autonomous vehicles, ensuring collision avoidance in complex environments.
   authors: Z Lin, Z Tian, Q Zhang, H Zhuang, J Lan
   link:
     url: https://www.mdpi.com/1424-8220/24/19/6258
-    display: MDPI Sensors Journal
+    display: Sensors
   highlight: 1
 
 - title: "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons"
@@ -22,7 +22,7 @@
   authors: J lan
   link:
     url: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12556
-    display: IET Research Journal
+    display: IET Intelligent Transport Systems
   highlight: 1
 
 - title: "DPL-SLAM: Enhancing Dynamic Point-Line SLAM through Dense Semantic Methods"
@@ -31,7 +31,7 @@
   authors: Zhihao Lin, Qi Zhang, Zhen Tian, Peizhuo Yu, Jianglin Lan
   link:
     url: https://ieeexplore.ieee.org/iel7/7361/4427201/10477312.pdf?casa_token=YyXErCOFKgAAAAAA:TBhl5xcsSCFdRt7xAV4PUUNmHFiSf4FrpdsOY6XO9-5JiwY0hDK_SAVQdLOLvN9469MUSDtSNBdj
-    display: IEEE Xplore
+    display: IEEE Sensors Journal
   highlight: 1
 
 - title: "A Holistic Safe Planner for Automated Driving Considering Interaction with Human Drivers"
@@ -100,7 +100,7 @@
 - title: "Finding the LQR Weights to Ensure the Associated Riccati Equations Admit a Common Solution"
   image: lqrwieghts.png
   description: This paper explores the determination of optimal Linear Quadratic Regulator (LQR) weights to ensure a common solution to the associated Riccati equations.
-  authors: J. Lan and D. Zhao
+  authors: J. Lan, D. Zhao
   link:
     url: https://ieeexplore.ieee.org/document/10005807/1000
     display: IEEE Transactions on Automatic Control, 68(10) 6393–6400
@@ -148,7 +148,7 @@
   authors: Jianglin Lan, Ron Patton
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0005109822004174
-    display: Automatica Volume 145, November 2022, 110556
+    display: Automatica, 145, 110556, 2022
   highlight: 1
 
 - title: "Tight Neural Network Verification via Semidefinite Relaxations and Linear Reformulations"
