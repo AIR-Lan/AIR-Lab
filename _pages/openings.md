@@ -13,7 +13,6 @@ permalink: /vacancies
 We currently have several exciting PhD scholarship opportunities open:
 
 - **RAINZ CDT PhD Scholarship Project: "AI-empowered Zero Touch Wireless Network Management for Reliable and Efficient Autonomous Robot Fleets"**  
-  *Eligibility*: UK students only  
   *Deadline*: November 28, 2024  
   For more details, visit the project page: [FindAPhD](https://www.findaphd.com/search/ProjectDetails.aspx?)
 
