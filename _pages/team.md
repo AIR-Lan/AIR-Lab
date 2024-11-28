@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [lab visitors](#visitors), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -86,5 +86,5 @@ Dr. Hanyang Zhuang, Assistant Research Professor, UM-SJTU Joint Institute, Shang
 
 
 ## Alumni
-
+Dr. Harikrishnan Vijayakumar (PhD student, 2nd Supervisor): now Research Fellow at Cranfield University
 
