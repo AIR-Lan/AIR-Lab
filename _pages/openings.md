@@ -14,19 +14,19 @@ We currently have several exciting PhD scholarship opportunities open:
 
 - **RAINZ CDT PhD Scholarship Project: "AI-empowered Zero Touch Wireless Network Management for Reliable and Efficient Autonomous Robot Fleets"**  
   *Deadline*: November 28, 2024  
-  For more details, visit the project page: [FindAPhD](https://www.findaphd.com/search/ProjectDetails.aspx?)
+  [Get more information here](https://www.findaphd.com/phds/project/ai-empowered-zero-touch-wireless-network-management-for-reliable-and-efficient-autonomous-robot-fleets/?p175959)
 
 - **School / EPSRC PhD Scholarship**   
   *Deadline*: January 31, 2025  
-  To learn more, see the school’s official page: [PhD Opportunities](https://www.gla.ac.uk/schools/engineering/phdopportunities)
+  [Get more information here](https://www.gla.ac.uk/schools/engineering/phdopportunities)
 
 - **James McCune Smith PhD Scholarships**   
   *Deadline*: January 31, 2025  
-  To learn more, see the official page: [James McCune Smith Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith/)
+  [Get more information here](https://www.gla.ac.uk/scholarships/mccune-smith/)
   
 - **China Scholarship Council (CSC) PhD scholarship**  
   *Deadline*: January 31, 2025  
-  To learn more, see the official page: [China Scholarship Council 2024](https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/chinascholarshipcouncil/)
+  [Get more information here](https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/chinascholarshipcouncil/)
 
 
 ## Application Process
