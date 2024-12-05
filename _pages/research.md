@@ -18,14 +18,14 @@ Developing innovative techniques to enhance fault tolerance in autonomous system
   - Hybrid integration of learning and control for real-time fault management
 - **Key Publications**:
   - *J. Lan, and R. Patton, "Robust Integration of Model-based Fault Estimation and Fault-Tolerant Control,"* Springer, 2020.
-  - *J. Lan, and R. Patton, "An iterative strategy for robust integration of fault estimation and fault-tolerant control,"* Automatica, 2022.
+  - *J. Lan. "Safety Monitoring and Alert for Neural Network-Enabled Control Systems"*, IFAC World Congress, IFAC-PapersOnLine, 56(2), 9436-9441, 2023.
 
 ### Intelligent Transportation Systems
 Aiming to secure future transportation networks, our research addresses safety, robustness, and cooperative control in connected vehicle systems.
 
 - **Research Focus**:
   - Data-driven approaches to cooperative adaptive cruise control (CACC)
-  - Safe and efficient mixted traffic systems
+  - Safe and efficient mixed traffic systems
 - **Key Publications**:
   - *J. Lan, "Data-driven cooperative adaptive cruise control for unknown nonlinear vehicle platoons,"* IET Intelligent Transport Systems, 2024.
   - *J. Lan et al., "Safe and robust data‐driven cooperative control policy for mixed vehicle platoons,"* International Journal of Robust and Nonlinear Control, 2022.
