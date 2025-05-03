@@ -21,7 +21,7 @@ We currently have several exciting PhD scholarship opportunities open:
   [Get more information here](https://www.gla.ac.uk/schools/engineering/phdopportunities)
   
 - **China Scholarship Council (CSC) PhD scholarship**  
-  *Deadline*: One call per year, deadline is normally in January 
+  *Deadline*: One call per year, deadline is normally in January
   [Get more information here](https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/chinascholarshipcouncil/)
 
 
