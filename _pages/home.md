@@ -18,6 +18,7 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -40,6 +41,9 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/unitree2.png" alt="Slide 6" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACMMM.jpeg" alt="Slide 7" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -53,7 +57,7 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
 
 #### Lab Director
 **Dr. Jianglin Lan**  
-Leverhulme Early Career Fellow & Lecturer in Autonomous Systems  
+Lecturer, Leverhulme Early Career Fellow (2022-2025)  
 Division of Autonomous Systems and Connectivity, James Watt School of Engineering  
 Email: Jianglin.Lan[at]glasgow.ac.uk  
 [Personal Website](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/) | [Google Scholar Profile](https://scholar.google.com/citations?user=Z7kvat4AAAAJ&hl=en&oi=ao) 
