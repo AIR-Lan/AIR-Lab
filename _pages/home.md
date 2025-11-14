@@ -42,7 +42,7 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/unitree2.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACMMM.jpeg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ACMMM.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
