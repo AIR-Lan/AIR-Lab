@@ -12,9 +12,10 @@ permalink: /vacancies
 
 We currently have several exciting PhD scholarship opportunities open:
 
-- **RAINZ CDT PhD Scholarship Project: "AI-empowered Zero Touch Wireless Network Management for Reliable and Efficient Autonomous Robot Fleets"**  
-  *Deadline*: July 31, 2025  
-  [Get more information here](https://www.findaphd.com/phds/project/ai-empowered-zero-touch-wireless-network-management-for-reliable-and-efficient-autonomous-robot-fleets/?p184689)
+- **Fully Funded PhD Opportunities – Interdisciplinary STEM Research at the EPSRC Centre for Doctoral Training in Diversity-Led, Mission-Driven Research (DiveIn CDT)**  
+  *Deadline*: January 31, 2026
+  *Funding for*: UK Students, EU Students, International Students from countries exempt from ATAS requirements
+  [Get more information here](https://www.jobs.ac.uk/job/DPQ026/fully-funded-phd-opportunities-interdisciplinary-stem-research-at-the-epsrc-centre-for-doctoral-training-in-diversity-led-mission-driven-research-divein-cdt)
 
 - **School / EPSRC PhD Scholarship**   
   *Deadline*: Two rounds per year, deadlines in January or May   
