@@ -1,6 +1,6 @@
 - name: <a href="https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/">Dr. Jiaglin Lan</a>
   photo: jianglin.JPG
-  info: "Leverhulme Early Career Fellow, Lecturer"
+  info: "Lecturer, Leverhulme Early Career Fellow"
   email: jianglin.lan@glasgow.ac.uk
   number_educ: 2
   education1: Honorary Research Fellow, Imperial College London, since 2023.
@@ -27,7 +27,7 @@
 
 - name: Mahmud Zango
   photo: mahmud.JPG
-  info: PhD Student
+  info: PhD Student (Commonwealth Scholarship)
   bio: Robotics, Tiny Machine-Leaning, Reinforcement Learning, Predictive Control.
   email: mahmud.zango@glasgow.ac.uk
   number_educ: 2
@@ -36,7 +36,7 @@
 
 - name: Zhihao Lin
   photo: zhihao.png
-  info: PhD Student
+  info: PhD Student (CSC Scholarship)
   bio: Visual SLAM, Reinforcement Learning, Connected and Automated Vehicles.
   email: 2800400L@student.gla.ac.uk
   number_educ: 1
@@ -44,7 +44,7 @@
 
 - name: Lin Wu
   photo: lin.jpg
-  info: PhD Student
+  info: PhD Student (EPSRC/School Scholarship)
   bio: Computer Vision, Multimodal Learning, Embodied AI.
   email: 3058596w@student.gla.ac.uk
   number_educ: 3
@@ -63,7 +63,7 @@
 
 - name: Azizjon Kobilov
   photo: aziz.jpg
-  info: PhD Student
+  info: PhD Student (El-Yurt Umidi Foundation Scholarship)
   bio: Control of Autonomous Systems, Robot Task Planning, Large Language Models in Robotics, Machine Learning. 
   email: 2944540k@student.gla.ac.uk
   number_educ: 2
@@ -72,7 +72,7 @@
 
 - name: Junyin Qiu
   photo: Junyin.jpg
-  info: PhD Student
+  info: PhD Student (EPSRC/School Scholarship)
   bio: Visual SLAM, State Estimation, 3D Computer Vision.
   email: 3131825Q@student.gla.ac.uk
   number_educ: 2
