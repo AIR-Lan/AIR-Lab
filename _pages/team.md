@@ -84,5 +84,5 @@ Dr. Hanyang Zhuang, Assistant Research Professor, UM-SJTU Joint Institute, Shang
 
 
 ## Alumni
-Dr. Harikrishnan Vijayakumar (PhD student, 2nd Supervisor): now Research Fellow at Cranfield University
-
+Dr. Harikrishnan Vijayakumar: PhD student, 2nd Supervisor, 2019-2024
+Dr. Zhihao Lin: PhD student, Principal Supervisor, 2023-2026 
