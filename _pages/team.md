@@ -78,6 +78,8 @@ Jump to [Current members](#staff), [Visitors](#visitors), [Alumni](#alumni).
 
 
 ## Visitors
+Dr. Anh-Tu Nguyen, Associate Professor, LAMIH-Lab CNRS 8201 (2025, 2026)
+
 Dr. Siyuan Zhan, Assistant Professor, Trinity College Dublin (2023 - 2026)
 
 Dr. Hanyang Zhuang, Assistant Research Professor, UM-SJTU Joint Institute, Shanghai Jiao Tong University (2023 - 2026)
