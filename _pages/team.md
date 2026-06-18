@@ -90,6 +90,6 @@ Mr. Haichuan Xu, PhD student, Tongji University (2026)
 
 
 ## Alumni
-Dr. Harikrishnan Vijayakumar: PhD student, 2nd Supervisor, 2019-2024
-
 Dr. Zhihao Lin: PhD student, Principal Supervisor, 2023-2026 
+
+Dr. Harikrishnan Vijayakumar: PhD student, 2nd Supervisor, 2019-2024
