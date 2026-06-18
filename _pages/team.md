@@ -78,9 +78,13 @@ Jump to [Current members](#staff), [Visitors](#visitors), [Alumni](#alumni).
 
 
 ## Visitors
-Dr. Siyuan Zhan, Assistant Professor, Trinity College Dublin
+Dr. Siyuan Zhan, Assistant Professor, Trinity College Dublin (2023 - 2026)
 
-Dr. Hanyang Zhuang, Assistant Research Professor, UM-SJTU Joint Institute, Shanghai Jiao Tong University
+Dr. Hanyang Zhuang, Assistant Research Professor, UM-SJTU Joint Institute, Shanghai Jiao Tong University (2023 - 2026)
+
+Mr. Yiliu Liu, PhD student, Shanghai University (2026)
+
+Mr. Haichuan Xu, PhD student, Tongji University (2026)
 
 
 ## Alumni
