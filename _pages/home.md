@@ -1,7 +1,7 @@
 ---
 title: "AIRLab - Home"
 layout: homelay
-excerpt: "Artificial Intelligence and Robotics Lab at the University of Glasgow"
+excerpt: "Assured Intelligence and Robotics Lab at the University of Glasgow"
 sitemap: false
 permalink: /
 ---
@@ -65,5 +65,5 @@ Our work spans several key areas of AI and robotics, including:
 - **Fault-Tolerant Autonomous Systems**: Developing autonomous systems that adapt dynamically, even in unexpected situations, to ensure uninterrupted functionality.
 - **Intelligent Transportation Systems**: Harnessing AI to improve transportation networks for safer, more efficient mobility solutions.
 
-Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including the [Leverhulme Trust](https://www.leverhulme.ac.uk), [Royal Society](https://www.royalsociety.org), and [Royal Society of Edinburgh](https://rse.org.uk/).
+Our team is actively involved in collaborative research across these domains, supported by funding from prestigious organizations, including the [Innovate UK](https://iuk-ktp.org.uk/), [Leverhulme Trust](https://www.leverhulme.ac.uk), [Royal Society](https://www.royalsociety.org), and [Royal Society of Edinburgh](https://rse.org.uk/).
 
