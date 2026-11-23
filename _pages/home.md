@@ -53,13 +53,13 @@ Our mission is to advance AI and robotics by creating intelligent, secure, and e
 
 #### Lab Director
 **Dr. Jianglin Lan**  
-Lecturer, Leverhulme Early Career Fellow (2022-2025)  
+Lecturer (Assistant Professor), Leverhulme Early Career Fellow (2022-2025)  
 Division of Autonomous Systems and Connectivity, James Watt School of Engineering  
 Email: Jianglin.Lan[at]glasgow.ac.uk  
 [Personal Website](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/) | [Google Scholar Profile](https://scholar.google.com/citations?user=Z7kvat4AAAAJ&hl=en&oi=ao) 
 
 #### Research Focus
-Our work spans several key areas of AI and robotics, including:
+Our work spans several key areas of AI and robotics, including but are not limited to:
 
 - **Safe and Trustworthy AI**: We emphasize building AI systems that can be trusted, utilizing advanced monitoring, verification, and control to ensure reliable performance.
 - **Fault-Tolerant Autonomous Systems**: Developing autonomous systems that adapt dynamically, even in unexpected situations, to ensure uninterrupted functionality.
